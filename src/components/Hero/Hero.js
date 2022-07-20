@@ -14,7 +14,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        I have excellent programming skills, strong problem-solving skills, and a passion for developing and improving applications utilizing cutting edge technologies.
+        Hi There, My name is Marcelino Saquende, I am Full Stack Developer, I have excellent programming skills, strong problem-solving skills, and a passion for developing and improving applications utilizing cutting edge technologies.
         </SectionText>
         <Button onClick={props.handleClick} >Learn More</Button>
       </LeftSection>
