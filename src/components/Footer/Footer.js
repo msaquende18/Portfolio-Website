@@ -14,15 +14,15 @@ const Footer = () => {
          </LinkColumn>
          <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:msaquende18@gmail.com">msaquende18@gmail.com</LinkItem>
+          <LinkItem href="mailto:msaquende@gmail.com">msaquende@gmail.com</LinkItem>
          </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Copyright ©2022 | This template is made <i className='fa fa-heart'></i> by Marcelino Saquende</Slogan>
+          <Slogan>Copyright ©2019 | This template is made <i className='fa fa-heart'></i> by Marcelino Saquende</Slogan>
         </CompanyContainer>
         <SocialContainer>
-        <SocialIcons href="https://github.com/msaquende18">
+        <SocialIcons href="https://github.com/marcelo-newman/marcelo-newman">
       <AiFillGithub size="3rem" />
     </SocialIcons>
     <SocialIcons href="https://www.linkedin.com/in/marcelino-saquende-3b1a29176/">

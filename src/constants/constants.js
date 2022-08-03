@@ -22,8 +22,8 @@ export const projects = [
     description: "This is a React Video Chat Application using WebRTC.",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
-    source: '',
-    visit: '',
+    source: 'https://marcelino-dev-video-chat.netlify.app/',
+    visit: 'https://marcelino-dev-video-chat.netlify.app/',
     id: 2,
   },
   {
@@ -39,8 +39,8 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2016, text: 'Started my journey in High School', },
-  { year: 2019, text: 'Worked as a front-end developer', },
-  { year: 2021, text: 'Worked as a freelance developer', },
-  { year: 2022, text: 'Shared my projects with the world', },
-  { year: 2022, text: 'Started my own platform', },
+  { year: 2017, text: 'I began to learn advanced programming', },
+  { year: 2018, text: 'I started my journey making real-world projects ', },
+  { year: 2019, text: 'Shared my projects with the world', },
+  { year: 2020, text: 'Started my journey at University', },
 ];
