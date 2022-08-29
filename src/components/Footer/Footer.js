@@ -19,7 +19,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Copyright ©2019 | This template is made <i className='fa fa-heart'></i> by Marcelino Saquende</Slogan>
+          <Slogan>Copyright ©2021 | This template is made <i className='fa fa-heart'></i> by Marcelino Saquende</Slogan>
         </CompanyContainer>
         <SocialContainer>
         <SocialIcons href="https://github.com/marcelo-newman/marcelo-newman">

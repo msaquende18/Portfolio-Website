@@ -7,7 +7,7 @@ const data = [
   { number: 4, text: 'Open Source Projects'},
   { number: 8, text: 'projects  with React', },
   { number: 2, text: 'projects  with React Native', },
-  { number: 4, text: 'projects  with Django', }
+  { number: 4, text: 'projects  with Python', }
 ];
 
 const Acomplishments = () => (

@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Project',
-    description: "This is  a Full Stack MERN Application that I built with  React, Node.js, Express & MongoDB. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: '',
-    visit: '',
+    title: 'Shareme App Project',
+    description: "This is  a Full Stack Application that I built with  React, Next.js, Zustand & Sanity in backend. The App is called shareme and it is a simple video social media app that allows users to post interesting videos that happened in their lives.",
+      image: '/images/1.jpg',
+      tags: ['React.js', 'Next.js', 'Zustand', 'Sanity'],
+    source: 'https://marcelino-dev-shareme-app.vercel.app',
+    visit: 'https://marcelino-dev-shareme-app.vercel.app',
     id: 0,
   },
   {
