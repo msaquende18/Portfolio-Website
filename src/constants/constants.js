@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a full Realtime Chat Application totally responsive",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: '',
-    visit: '',
+    title: 'Discord-Clone',
+    description: "This is a full stack web app with a few complex functionalities such as: The ability to add a channel, send and delete message, and have a responsive design",
+    image: '/images/4.png',
+    tags: ['React', 'Redux Toolkit', 'TailwindCSS', 'Firebase'],
+    source: 'https://marcelodev-discord.vercel.app/',
+    visit: 'https://marcelodev-discord.vercel.app/',
     id: 3,
   },
 ];
