@@ -13,8 +13,8 @@ export const projects = [
     description:"In This project I used advanced React & JavaScript topics, as well as how to use Stripe for card transactions. Feel free to explore this unique and complex Webshop App",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
-    source: '',
-    visit: '',
+    source: 'https://marcelodev-webshop.vercel.app/',
+    visit: 'https://marcelodev-webshop.vercel.app/',
     id: 1,
   },
   {
