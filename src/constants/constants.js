@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://marcelodev-discord.vercel.app/',
     id: 3,
   },
+  {
+    title: 'React Native - NFT Market',
+    description: "This is a React Native App with a modern UI/UX",
+    image: '/images/6.png',
+    tags: ['React Native', 'Cryptocurrency', 'NFT Market'],
+    source: 'https://marcelodev-nft.on.fleek.co/',
+    visit: 'https://marcelodev-nft.on.fleek.co/',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
