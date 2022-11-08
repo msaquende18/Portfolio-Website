@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Borcelle Kitchen Project',
+    description: "This is  a Full Stack Application that I built with  Angular13 & Typescript in Front-End, Nodejs & MongoDB in backend. The App is called Borcelle Kitchen and it is a video Food app that allows users to order their favorite foods.",
+      image: '/images/L.png',
+      tags: ['Angular13', 'Typescript', 'Nodejs', 'MongoDB'],
+    source: 'https://marcelinodev-kitchen.herokuapp.com/',
+    visit: 'https://marcelinodev-kitchen.herokuapp.com/',
+    id: 1,
+  },
+  {
     title: 'E-Commerce',
     description:"In This project I used advanced React & JavaScript topics, as well as how to use Stripe for card transactions. Feel free to explore this unique and complex Webshop App",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://marcelodev-webshop.vercel.app/',
     visit: 'https://marcelodev-webshop.vercel.app/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'WebRTC App',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['React', 'WebRTC'],
     source: 'https://marcelino-dev-video-chat.netlify.app/',
     visit: 'https://marcelino-dev-video-chat.netlify.app/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Discord-Clone',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React', 'Redux Toolkit', 'TailwindCSS', 'Firebase'],
     source: 'https://marcelodev-discord.vercel.app/',
     visit: 'https://marcelodev-discord.vercel.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'React Native - NFT Market',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['React Native', 'Cryptocurrency', 'NFT Market'],
     source: 'https://marcelodev-nft.on.fleek.co/',
     visit: 'https://marcelodev-nft.on.fleek.co/',
-    id: 4,
+    id: 5,
   },
 ];
 
