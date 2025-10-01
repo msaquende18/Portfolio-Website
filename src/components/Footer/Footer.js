@@ -22,7 +22,7 @@ const Footer = () => {
           <Slogan>Copyright ©2021 | This template is made <i className='fa fa-heart'></i> by Marcelino Saquende</Slogan>
         </CompanyContainer>
         <SocialContainer>
-        <SocialIcons href="https://github.com/marcelo-newman/marcelo-newman">
+        <SocialIcons href="https://github.com/msaquende18">
       <AiFillGithub size="3rem" />
     </SocialIcons>
     <SocialIcons href="https://www.linkedin.com/in/marcelino-saquende-3b1a29176/">
